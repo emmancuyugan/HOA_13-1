@@ -1,0 +1,5 @@
+[checkpoint]
+192.168.56.111
+
+[checkpoint:vars]
+ansible_network_os=checkpoint
